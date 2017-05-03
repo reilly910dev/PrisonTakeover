@@ -1,0 +1,7 @@
+name: Prison_Takeover
+main: com.reilly910.Prisons.Prisons
+version: 1.0
+commands:
+    prison:
+        description: Main Command for PrisonTakeover
+        usage: /<command>
